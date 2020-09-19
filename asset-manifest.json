@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AnuragVerma08/to-do-App/static/css/main.e2a76fa5.chunk.css",
-    "main.js": "/AnuragVerma08/to-do-App/static/js/main.733c8c9a.chunk.js",
-    "main.js.map": "/AnuragVerma08/to-do-App/static/js/main.733c8c9a.chunk.js.map",
-    "runtime-main.js": "/AnuragVerma08/to-do-App/static/js/runtime-main.acfd06c3.js",
-    "runtime-main.js.map": "/AnuragVerma08/to-do-App/static/js/runtime-main.acfd06c3.js.map",
-    "static/js/2.9d4e5c99.chunk.js": "/AnuragVerma08/to-do-App/static/js/2.9d4e5c99.chunk.js",
-    "static/js/2.9d4e5c99.chunk.js.map": "/AnuragVerma08/to-do-App/static/js/2.9d4e5c99.chunk.js.map",
-    "index.html": "/AnuragVerma08/to-do-App/index.html",
-    "precache-manifest.3a97c86ff3d34ab810bcec8b27e83cd5.js": "/AnuragVerma08/to-do-App/precache-manifest.3a97c86ff3d34ab810bcec8b27e83cd5.js",
-    "service-worker.js": "/AnuragVerma08/to-do-App/service-worker.js",
-    "static/css/main.e2a76fa5.chunk.css.map": "/AnuragVerma08/to-do-App/static/css/main.e2a76fa5.chunk.css.map",
-    "static/js/2.9d4e5c99.chunk.js.LICENSE.txt": "/AnuragVerma08/to-do-App/static/js/2.9d4e5c99.chunk.js.LICENSE.txt"
+    "main.css": "/to-do-App/static/css/main.e2a76fa5.chunk.css",
+    "main.js": "/to-do-App/static/js/main.d7fb8f69.chunk.js",
+    "main.js.map": "/to-do-App/static/js/main.d7fb8f69.chunk.js.map",
+    "runtime-main.js": "/to-do-App/static/js/runtime-main.431ee15e.js",
+    "runtime-main.js.map": "/to-do-App/static/js/runtime-main.431ee15e.js.map",
+    "static/js/2.9d4e5c99.chunk.js": "/to-do-App/static/js/2.9d4e5c99.chunk.js",
+    "static/js/2.9d4e5c99.chunk.js.map": "/to-do-App/static/js/2.9d4e5c99.chunk.js.map",
+    "index.html": "/to-do-App/index.html",
+    "precache-manifest.c97730ed0716711e8219b59fc5f6ab28.js": "/to-do-App/precache-manifest.c97730ed0716711e8219b59fc5f6ab28.js",
+    "service-worker.js": "/to-do-App/service-worker.js",
+    "static/css/main.e2a76fa5.chunk.css.map": "/to-do-App/static/css/main.e2a76fa5.chunk.css.map",
+    "static/js/2.9d4e5c99.chunk.js.LICENSE.txt": "/to-do-App/static/js/2.9d4e5c99.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.acfd06c3.js",
+    "static/js/runtime-main.431ee15e.js",
     "static/js/2.9d4e5c99.chunk.js",
     "static/css/main.e2a76fa5.chunk.css",
-    "static/js/main.733c8c9a.chunk.js"
+    "static/js/main.d7fb8f69.chunk.js"
   ]
 }
